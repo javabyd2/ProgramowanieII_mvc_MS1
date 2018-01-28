@@ -6,6 +6,8 @@ import com.sdabyd2.mvc.model.Health;
 import com.sdabyd2.mvc.model.Nourishment;
 import com.sdabyd2.mvc.view.GiantView;
 
+import java.util.List;
+
 public class GiantController {
 
     private GiantModel giantModel;
